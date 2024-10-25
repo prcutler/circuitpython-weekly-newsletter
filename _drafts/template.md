@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: October 24, 2024 - Event shuffling
+Last changed: October 25, 2024 - Event shuffling
 
 News Sources
 
@@ -104,7 +104,7 @@ CircuitPython Weekly Meeting for {date} ([notes](file)) [on YouTube](link).
 
 ## Project of the Week
 
-[![title](../assets/2024mmdd/2024mmdd-name.jpg)](url)
+[![title](../assets/2024mmdd/2024mmddpotw.jpg)](url)
 
 text - [site](url).
 
@@ -208,11 +208,11 @@ text - [site](url).
 
 ## Coming Soon / New
 
-[![title](../assets/2024mmdd/2024mmdd-name.jpg)](url)
+[![title](../assets/2024mmdd/2024mmddnew1.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2024mmdd/2024mmdd-name.jpg)](url)
+[![title](../assets/2024mmdd/2024mmddnew2.jpg)](url)
 
 text - [site](url).
 
@@ -316,10 +316,6 @@ text.
 text.
 
 ## Upcoming Events
-
-[![SuperCon 2024](../assets/2024mmdd/2024mmddsc.jpg)](https://hackaday.com/2024/08/06/tickets-for-supercon-2024-go-on-sale-now/)
-
-Hackaday Superconference is an epic gathering of hardware hackers, makers, and tech enthusiasts happening November 1-3 in Pasadena, California - [Hackaday](https://hackaday.com/2024/08/06/tickets-for-supercon-2024-go-on-sale-now/) and [Eventbrite](https://www.eventbrite.com/e/2024-hackaday-superconference-tickets-965387338517).
 
 [![PyCon AU](../assets/2024mmdd/2024mmddpau.jpg)](https://2024.pycon.org.au/)
 
