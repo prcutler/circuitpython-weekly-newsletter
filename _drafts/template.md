@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2024-11-04 07:00:00 -0800
+date: 2024-11-18 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: November 1, 2024 - News source tweaks
+Last changed: November 8, 2024 - library tweaks per report
 
 News Sources
 
@@ -276,10 +276,6 @@ Here's this week's new CircuitPython libraries:
 Here's this week's updated CircuitPython libraries:
 
 * [library](url)
-
-**Library PyPI Weekly Download Stats**
-
-
 
 ## What’s the CircuitPython team up to this week?
 
