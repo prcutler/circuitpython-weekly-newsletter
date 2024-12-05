@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: November 8, 2024 - library tweaks per report
+Last changed: December 5, 2024 - events changes
 
 News Sources
 
@@ -313,17 +313,17 @@ text.
 
 ## Upcoming Events
 
-[![PyCon AU](../assets/2024mmdd/2024mmddpau.jpg)](https://2024.pycon.org.au/)
-
-PyCon AU will be held from the 22nd to the 26th of November at the Melbourne Convention and Exhibition Centre (MCEC) in Narrm/Melbourne. Matt Trentini and Damien George will both be presenting on MicroPython - [PyCon AU](https://2024.pycon.org.au/).
-
-[![MicroPython Meetup](../assets/2024mmdd/2024mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
-
-The next MicroPython Meetup in Melbourne will be on November 27th – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). September's meeting notes are [here](https://melbournemicropythonmeetup.github.io/September-2024-Meetup/).
-
 [![PyLadies](../assets/2024mmdd/pyladiescon.png)](https://conference.pyladies.com/)
 
 PyLadies Conference (PyLadiesCon) is a transformative event designed to promote diversity, learning, and empowerment within the Python community. December 6-8, 2024 online - [PyLadies](https://conference.pyladies.com/).
+
+[![MicroPython Meetup](../assets/2024mmdd/2024mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
+
+The next MicroPython Meetup in Melbourne will be on December 11th – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
+
+[![PyCon US 2025](../assets/2024mmdd/pyconus25.jpg)](https://us.pycon.org/2025/)
+
+The community is coming back to Pittsburgh, Pennsylvania for PyCon US 2025 May 14 - May 22, 2025 - [us.pycon.org](https://us.pycon.org/2025/).
 
 **Send Your Events In**
 
