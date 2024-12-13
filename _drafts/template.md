@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2024-12-16 07:00:00 -0800
+date: 2024-12-23 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: December 5, 2024 - events changes
+Last changed: December 13, 2024 - events changes and add BlueSky near top
 
 News Sources
 
@@ -38,7 +38,7 @@ View this email in your browser. **Warning: Flashing Imagery**
 
 Welcome to the latest Python on Microcontrollers newsletter! *insert 2-3 sentences from editor (what's in overview, banter)* - *Anne Barela, Editor*
 
-We're on [Discord](https://discord.gg/HYqvREz), [Twitter](https://twitter.com/search?q=circuitpython&src=typed_query&f=live), and for past newsletters - [view them all here](https://www.adafruitdaily.com/category/circuitpython/). If you're reading this on the web, [subscribe here](https://www.adafruitdaily.com/). Here's the news this week:
+We're on [Discord](https://discord.gg/HYqvREz), [Twitter/X](https://twitter.com/search?q=circuitpython&src=typed_query&f=live), [BlueSky](https://bsky.app/profile/circuitpython.org) and for past newsletters - [view them all here](https://www.adafruitdaily.com/category/circuitpython/). If you're reading this on the web, [subscribe here](https://www.adafruitdaily.com/). Here's the news this week:
 
 ## Headline
 
@@ -313,13 +313,9 @@ text.
 
 ## Upcoming Events
 
-[![PyLadies](../assets/2024mmdd/pyladiescon.png)](https://conference.pyladies.com/)
-
-PyLadies Conference (PyLadiesCon) is a transformative event designed to promote diversity, learning, and empowerment within the Python community. December 6-8, 2024 online - [PyLadies](https://conference.pyladies.com/).
-
 [![MicroPython Meetup](../assets/2024mmdd/2024mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
-The next MicroPython Meetup in Melbourne will be on December 11th – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
+The next MicroPython Meetup in Melbourne will be on January 22nd – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
 
 [![PyCon US 2025](../assets/2024mmdd/pyconus25.jpg)](https://us.pycon.org/2025/)
 
